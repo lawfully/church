@@ -11,7 +11,3 @@ It is infinitely easier to suffer in obedience to a human command than in the fr
 {% endquote %}
 
 어떤 고통은 그리스도의 고통에 참여하는 것이고, 어떤 고통은 자연현상이고, 어떤 고통은 고집과 독선으로 인한 고통인가요?
-
-# 읽는 책
-
-{% bibliography --cited --file theology %}

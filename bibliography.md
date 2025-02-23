@@ -11,6 +11,3 @@ title: 참고문헌
 
 <p>{% bibliography --file theology %}</p>
 
-## Sample bibliography
-
-<p>{% bibliography %}</p>

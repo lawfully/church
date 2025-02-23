@@ -22,7 +22,3 @@ Ten years is a long time in anyone's life. As time is the most valuable thing th
 그리스도의 **고통에 참여**하는 것이죠. 루터의 말처럼 서로에게 그리스도가 되는 것입니다. 본회퍼가 말하려는 것은.
 
 그런 만큼, 본회퍼는 신비주의자입니다. 고통만큼, 타인을 위한 고통, 참여하는 고통만큼 신비주의적인, 신비스러운 것은 없거든요.
-
-## 참고문헌
-
-{% bibliography --cited --file theology %}
