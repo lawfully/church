@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Bibliography
+title: 참고문헌
 ---
 
-The sample bibliography should display below. If it doesn't, you need to install [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar). We've provided a Gemfile for you that you can use with [Bundler](http://bundler.io/). Remember to do a bundle install. On that note, we also highly recommend that you use [rvm](https://rvm.io/) to manage your gems. Here's [a great tutorial](https://www.chapterthree.com/blog/ruby-rvm-gemsets-and-bundlergemfiles) on how to do both from Rob Decker.
-
-To use jekyll-scholar, we recommend reading up on the excellent documentation on the link above.
+이곳의 글을 쓰면서 참고한 글의 목록입니다. 이것 때문에 [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) 쓸 수 밖에 없습니다. 또 이것 때문에 [Ed.](https://minicomp.github.io/ed/) 쓸 수 밖에 없구요.
 
 ---
+
+## 신학
+
+<p>{% bibliography --file theology %}</p>
 
 ## Sample bibliography
 

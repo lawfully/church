@@ -5,6 +5,8 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink: /:year/:month/:title:output_ext
 
+color-scheme: blue
+# red, orange, green, cyan, blue, magenta, brown available
 # Set encoding to UTF-8
 encoding: utf-8
 
@@ -26,7 +28,7 @@ kramdown:
 
 # Setup
 title:               세상교회
-tagline:             '세상교회, worldly church'
+tagline:             'worldly church'
 description:         '하나님이 세상을 이처럼 사랑하사'
 url:                 https://worldly.church
 baseurl:             ''
@@ -48,8 +50,9 @@ plugins: ['jekyll/scholar']
 
 # Scholar
 scholar:
-  style: modern-language-association
+  style: chicago-author-date-16th-edition
   locale: en
+  allow_locale_overrides: true
 
   sort_by: none
   order: ascending
@@ -60,15 +63,24 @@ scholar:
   source: ./_bibliography
   bibliography: references.bib
   bibliography_template: "{{reference}}"
-  relative: "/ed/bibliography.html"
+  relative: "/bibliography.html"
 
   replace_strings: true
   join_strings:    true
 
-  use_raw_bibtex_entry: false
+#  use_raw_bibtex_entry: false
 
   details_dir:    bibliography
   details_layout: bibtex.html
   details_link:   Details
 
   query: "@*"
+
+## defaults
+defaults:
+-
+  scope:
+    path: ""
+    type: "posts"
+  values:
+    layout: "post"

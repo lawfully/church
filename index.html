@@ -1,23 +1,32 @@
 ---
 layout: default
-title: "Ed."
+title: "세상교회"
 ---
 <div class="introduction">
-  <h1>hi.</h1>
+  <h1>세상교회에 오셨습니다.</h1>
 
 <p>
-  Ed is a <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> theme designed for textual
-  editors based on <a href="http://go-dh.github.io/mincomp/">minimal computing principles</a>, and
-  focused on legibility, durability, ease and flexibility. Our underlying technology is easy to
-  learn and teach, and can produce beautifully rendered scholarly or reading editions of texts meant
-  to last. To start using Ed, please see <a href="{{ site.baseurl }}/documentation/">our
-  documentation</a> for installation instructions and more. To learn more about the ideas behind Ed
-  and a list of current features see our <a href="{{ site.baseurl }}/about/">about</a> section. To
-  see Ed in action, we've provided some sample minimal editions for you below.
+  환영합니다. 늙다리 신학생입니다.
 </p>
 </div>
 
 <hr>
+
+<div class="toc">
+  <h2>글 모음</h2>
+  <p>아래에는 최근 10개 글이 보입니다. 모든 글을 다 보고 싶다면 <a href="{% link archives.html %}">전체글 목록</a>에 가 보십시오. 개인적인 글은 <a href="{% link journal.html %}">개인글 모음</a>을 보십시오.</p>
+  <ul class="texts">
+  {% for post in site.posts limit:10 %}
+  <li class="text-title">
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      {{ post.title }}
+    </a> &mdash; {{ post.date | date: "%Y년 %-m월 %-d일"}}
+  </li>
+  {% endfor %}
+  </ul>
+</div>
+
+<!--<hr>
 
 <div class="toc">
   <h2>sample texts</h2>
@@ -31,4 +40,4 @@ title: "Ed."
     </li>
   {% endfor %}
   </ul>
-</div>
+</div>-->

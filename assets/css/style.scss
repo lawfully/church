@@ -2,6 +2,10 @@
 sitemap: false
 ---
 
+/* @use "variables" as *;
+@use "ed" as *;
+@use "syntax" as *;
+@use "fonts" as *; */
 
 /*
   Common Variables
@@ -10,16 +14,17 @@ sitemap: false
 */
 
 /* Fonts */
-$main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-$heading-font: sans-serif;
+$main-font: "Wittgenstein", "Noto Serif KR", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+$heading-font: "Wittgenstein", "Noto Sans KR", sans-serif;
+$title-font: "Wittgenstein Thick", "Noto Serif KR", serif;
 $regular-font-size: 1.25em; /* 20px / 16px = 1.25em; support text resizing in all browsers */
 
 
 /*
   Color
 
-  Make sure to leave color-scheme in `_config.yml` file empty for granular control
-*/
+  Make sure to leave color-scheme in `_config.yml` file empty for granular control */
+
 
 $text-color: #454545;
 $heading-color: #404040;
@@ -27,3 +32,4 @@ $link-color: #841212;
 
 @import "ed";
 @import "syntax";
+@import "fonts"; 

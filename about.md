@@ -1,59 +1,22 @@
 ---
 layout: page
-title: About
+title: 소개
+slug: about
+editor: Hyun Kim
+date: 2025-02-23
+toc:
 ---
 
-One of our most pressing and ever-evolving needs as scholars is to pass on our textual artifacts
-from one generation to another. The art of textual editing, among other practices, has helped many
-cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its
-highest form by a dwindling number of scholars. In a digital environment the problem is compounded
-by the difficulties of the medium. While vast repositories and "e-publications" appear on the
-online scene yearly, very few manifest a textual scholar's disciplined attention to detail. In
-contrast, most textual scholars who have made the leap to a rigorous digital practice have focused
-on markup, relying on technical teams to deploy and maintain their work. This makes your average
-scholarly digital edition a very costly and therefore limited affair.
+늙다리 신학생입니다. 3년이 지났습니다. 아직 졸업하지 못합니다. 시간도 다 채웠고, 수업도 다 들었지만, 어떤 행정상의 문제 때문...이라고 말은 하지만 사실은 **사역**할 준비가 되지 않았습니다. 애초에 사역 준비를 하러 갔다기보다는 나 자신을 위해서 갔던 것이, 내가 은혜(이건 무엇이건)가 갈급했던, 사막같기만 했던 삶에서 도피하고자 했던 것이 막상 3년이 지나도 사역할 준비가 되지 않았던 원인일 것입니다. 그저 **준비**를 하고 있는 한은, 그게 사역이었건 뭐였건, 좋았습니다. 행복했습니다. 그게 문제였겠죠.
 
-As we see it, a minimal edition is one that aims to reduce the size and complexity of the back and
-front end while flattening the learning curves for the user and the producer. Out of the box, the Ed
-theme can help you build a simple reading edition, or a traditional scholarly edition with footnotes
-and a bibliography, without breaking the bank. In our estimate, these are the two most immediately
-useful type of editions for editors and readers. An edition produced with Ed consists of static
-pages whose rate of decay is substantially lower than database-driven systems. As an added bonus,
-these static pages require less bandwidth. Our hope is that our approach can help beginners and
-veterans deploy beautiful editions with less effort, and that it can help us teach a 'full stack'
-[in one academic semester](https://github.com/susannalles/MinimalEditions/blob/master/README.md),
-while allowing us to care for our projects at less cost, and perhaps, just perhaps, to generate
-high-quality editions on github.io in large quantities based on the
-[git-lit](http://jonreeve.com/2015/09/introducing-git-lit/) model by Jonathan Reeve. We're coming
-for you, Kindle!
+1학년 마칠 무렵이었나, 홈페이지를 만들어야겠다는 생각이 들었죠. 한편으로는 "이걸 다 하라고? 어느 세월에?"라는 생각이 들면서도, 한편으로는 이 과정을 기록해 두고 싶었습니다. 무리였죠. 일하면서 야간신학교 다니는 주제에 홈페이지까지 할 시간은... 그럼에도 불구하고, 마음 한편에는 계속 있었죠. 이제 졸업할 시간이 되어서야 해 봅니다. 어쩌면, 졸업장을 받기 전에 반드시 넘어가야 할 산이었을 수도 있습니다.
 
+## 세상교회
 
-## Sample Ed editions.
+제가 교회를 세우고, 봉사한다면, 이름은 반드시 **세상교회**라 할 것이라 결심했습니다. 3학년때입니다.
 
-- [Our sample site](http://minicomp.github.io/ed/) is the first edition built with Ed.
-- [Fugitive Verses](http://fugitiverses.viraltexts.org/): Popular Reprinted Poetry from Nineteenth Century Newspapers
-- [mini lazarillo](http://minilazarillo.github.io/): A minimal edition of the *Lazarillo de Tormes*
-- [Making and Knowing](https://cu-mkp.github.io/GR8975-edition/): The BnF Ms Fr 640 in Translation
-- [Daisy Miller: A Comedy in Three Acts](https://britaneeelizabeth.github.io/ed/texts/DaisyMillerPlay/)
+>하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니 이는 저를 믿는자마다 멸망하지 않고 영생을 얻게 하려 하심이니라
 
+누구나 아는 요한복음 3:16 말씀입니다. 문득, 수업이 끝나고 집에 오는 차 안에서 그런 생각이 들었습니다. "하나님이 그토록 세상을 사랑하셨다면, 우리도 마땅히 세상을 사랑해야 하는 것 아닌가?"
 
-## Current Features
-
-- Templates for narrative, drama and poetry
-- Responsive design for mobile phones, tablets and PCs.
-- Relatively easy to learn and teach
-- Works well in high- or low- bandwidth scenarios
-- Easier for digital archives and libraries to preserve
-- Open source, open access
-- Unobtrusive footnotes
-- Metadata in Dublin Core and OpenGraph to play nice with Zotero, libraries and social media.
-- Automatic table of content generation
-- Simple search functionality
-- Annotations via [hypothes.is](https://hypothes.is/)
-- Optional: Ability to generate well-formatted bibliographies and linked citations
-
-
-## Installing and using Ed
-
-To learn how to install and begin using Ed, please visit our
-[documentation page](http://minicomp.github.io/ed/documentation).
+어떻게 하는지는 모릅니다. 알아볼 생각입니다. 그 과정을 여기에 적습니다.
