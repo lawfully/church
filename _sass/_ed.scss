@@ -52,8 +52,15 @@ body {
   color: $text-color;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-font-feature-settings: "lnum";
+  -webkit-font-feature-settings: "lnum";
+  font-feature-settings: "lnum";
 }
+
+.lowercase-numbers {
+  text-transform: lowercase;
+} 
 
 .content {
   margin-bottom: 4rem;
