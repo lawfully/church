@@ -1,0 +1,23 @@
+---
+layout: page
+title: "신학"
+weight: 0
+---
+<p>잘하건 못하건, 늙다리이건 아니건, 신학생의 이야기이므로 신학 이야기가 빠질 수 없습니다.</p>
+
+<p>신학의 대가라 할 수는 없지만, 매일 조금씩 단상을 나누고자 합니다. <b>한줄 신학</b>이라는 제목으로 나눕니다. 시간낭비라 생각하실 분들을 위해 -- 비겁하지만 -- 가능한 영어로 나누어서 그런 느낌을 조금이라도 덜 받도록 하려 합니다. 저의 지못미 본회퍼 이야기로 시작합니다.</p>
+
+<hr>
+
+<div class="toc">
+  <h2>글 목록</h2>
+  <ul class="toc">
+  {% for item in site.posts %}
+  {% if item.categories contains "theology" %}
+  <li class="text-title">
+    <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a> -   <em>{{ item.date | date: "%Y년 %-m월 %-d일" }}</em>
+  </li>  
+  {% endif %}
+  {% endfor %}
+  </ul>
+</div>

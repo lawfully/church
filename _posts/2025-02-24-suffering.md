@@ -1,6 +1,6 @@
 ---
 title: "[한줄신학] 고통에 대하여"
-categories: theology,bonhoeffer
+categories: [theology,bonhoeffer]
 ---
 고통의 신비를 아는 사람이라면 누가 너의 고통은 하찮고 -- 주어진 것이므로, 자연스러운 것이므로 -- 나의 고통은 거룩하다고 말할 수 있겠습니까? 그럼에도, 다른 한편으로는 히틀러와 국가종교를 지지하는 신학자들을 지지하고 그들을 연대할 수 있겠습니까? 그들의 결론에는 동의하지 않더라도, 이해할 수 있겠습니까? 어떤 고통은 좋고, 어떤 고통은 나쁜가요? 본회퍼는 말합니다. {% cite bonhoeffer_1953 --file theology --locator 14 --locale ko %}
 
