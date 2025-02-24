@@ -11,3 +11,5 @@ It is infinitely easier to suffer in obedience to a human command than in the fr
 {% endquote %}
 
 어떤 고통은 그리스도의 고통에 참여하는 것이고, 어떤 고통은 자연현상이고, 어떤 고통은 고집과 독선으로 인한 고통인가요?
+
+그렇다고 또 모든 고통은 거룩한가요? 아니라면, 그렇다고 누가 감히 "나의 고통은 거룩하고, 너의 고통은 하찮다"고 할 수 있을까요?
