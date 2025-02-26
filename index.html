@@ -14,13 +14,13 @@ title: "세상교회"
 
 <div class="toc">
   <h2>글 모음</h2>
-  <p>아래에는 최근 10개 글이 보입니다. 모든 글을 다 보고 싶다면 <a href="{% link archives.html %}">전체글 목록</a>에 가 보십시오. 개인적인 글은 <a href="{% link journal.html %}">개인글 모음</a>을 보십시오.</p>
+  <p>아래에는 최근 10개 글이 보입니다. 모든 글을 다 보고 싶다면 <a href="{% link archives.html %}">전체글 목록</a>에 가 보십시오. 지금은 <a href="{% link theology.html %}">신학글</a>, <a href="{% link books.html %}">책 이야기</a> 등이 있습니다.  개인적인 글은 <a href="{% link journal.html %}">개인글 모음</a>을 보십시오.</p>
   <ul class="texts">
   {% for post in site.posts limit:10 %}
   <li class="text-title">
     <a href="{{ site.baseurl }}{{ post.url }}">
       {{ post.title }}
-    </a> &mdash; <span class="lowercase-numbers">{{ post.date | date: "%Y년 %-m월 %-d일"}}</span>
+    </a> &mdash; <small><i><span class="lowercase-numbers">{{ post.date | date: "%Y년 %-m월 %-d일"}}</span></i></small>
   </li>
   {% endfor %}
   </ul>

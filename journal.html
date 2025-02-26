@@ -13,7 +13,7 @@ weight: 9
   {% for item in site.posts %}
   {% if item.categories contains "journal" %}
   <li class="text-title">
-    <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a> -   <em>{{ item.date | date: "%Y년 %-m월 %-d일" }}</em>
+    <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a> -   <small><em>{{ item.date | date: "%Y년 %-m월 %-d일" }}</em></small>
   </li>  
   {% endif %}
   {% endfor %}
