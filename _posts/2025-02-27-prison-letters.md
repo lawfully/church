@@ -5,7 +5,7 @@ bibliography: true
 ---
 대학 신입생이었을 때, 써클룸에서 -- 그때 가입했는지는 모르겠습니다. 가입 전이었을 겁니다 -- 본회퍼의 "옥중서신"을 처음 접했었죠. 정말 이상했습니다. 평생 기독교인으로 살아왔는데 -- 그렇게 믿었죠 -- 내가 처음 들어본 사람이고, 책도 시와 경구처럼 보이는 문장들의 모음인데, 책의 구조도 이해되지 않았습니다. 구조가 아예 없다는 것은 그때는 무슨 이유에서인지 그럴 가능성은 떠오르지도 않았습니다.
 
-{% include lfigure.html url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Breckwoldt-pr%C3%BCfung.JPG/675px-Breckwoldt-pr%C3%BCfung.JPG" title = "Edith Breckwoldt의 조각상" %}
+{% include lfigure.html align="left" width="50%" url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Breckwoldt-pr%C3%BCfung.JPG/675px-Breckwoldt-pr%C3%BCfung.JPG" title = "Edith Breckwoldt의 조각상" %}
 
 이제 그 책은 절판인 듯 하고, 2016년 이래 여러권이 번역되어 나왔죠. 제가 가진 책은 "옥중서신 - 저항과 복종" {% cite bonhoeffer_kr_2016 --file theology %}입니다. 그 많은 번역본 가운데 어떤 책도 제가 그때 느꼈던 그 강렬한 인상을 주지 못합니다. 아마 1960년대에 출판된 듯한, 작고 지금 보면 폰트도 이상하고 제대로 된 책같아 보이지도 않는 그 책이 왜 그렇게 큰 인상을 주었을까요.
 

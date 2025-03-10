@@ -46,7 +46,7 @@ version:             0.0.5
 exclude: [optional,unused]
 
 # Gems
-plugins: ['jekyll/scholar']
+plugins: ['jekyll/scholar','jektex']
 
 # Scholar
 scholar:
@@ -76,6 +76,9 @@ scholar:
 
   query: "@*"
 
+# Jektex
+jektex:
+  silent: true
 ## defaults
 defaults:
 -
