@@ -1,7 +1,7 @@
 ---
 title: "[책 이야기] 나라와 권세와 영광"
 categories: [books,theology]
-bibliography: true
+bibliography: theology
 ---
 "**The Kingdom, the Power, and the Glory**" {% cite alberta_2023 --file theology --locale ko %}, 이 책 작년에 신학교 통학하면서 오디오북으로 들었는데, 한글로 번역이 되었군요. "**나라, 권력, 영광**" {% cite alberta_kr_2023 --file theology --locale ko %}. 아직 보지도 못했지만, 제목이 좀 지못미. 주기도문에서 나온 표현인 만큼 주기도문을 따라서, "**나라와 권세와 영광**" 정도로 번역했으면 좋았을 것 같네요. 교회에 대해서 잘 모르는 사람이 번역한 것 같아서, 제목만 봐도 손이 안가네요.
 

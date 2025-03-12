@@ -1,7 +1,7 @@
 ---
 title: "[한줄신학] 본회퍼의 옥중서간"
 categories: [theology, bonhoeffer]
-bibliography: true
+bibliography: theology
 ---
 
 혹시 본회퍼를 언젠가는 읽겠다고 생각했다면, 지금이야말로 책을 열어볼 때입니다. 한국 교회는 마치 본회퍼의 때처럼 홍역을 앓고 있고, 세계 어딜 보나 전쟁과 파시즘의 기운이 우리를 뒤덮고 있으며, 기후위기와 인공지능은 미래를 가늠하기 힘들게 합니다.

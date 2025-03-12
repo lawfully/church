@@ -1,7 +1,7 @@
 ---
 title: "[한줄 신학] 재의 수요일, 신학의 일, 신학자의 일"
 categories: [theology]
-bibliography: true
+bibliography: theology
 ---
 
 {% include lfigure.html url="/assets/images/ash-wednesday.png" title="ash wednesday" %}

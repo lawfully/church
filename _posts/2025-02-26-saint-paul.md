@@ -1,7 +1,7 @@
 ---
 title: "[한줄철학] 사도바울"
 categories: theology
-bibliography: true
+bibliography: theology
 ---
 
 뜬금 없이 철학? 그것도 사도바울? 철학과 신학--사실상 다른 모든 것--을 구별짓는 제 기준은 다 읽었는데, 뭔가 화장실에서 그냥 나온 것처럼 찜찜한 기분이 들면 철학입니다. "사도바울" {% cite badiou_kr_2008 --file theology %}은 "Saint Paul" {% cite badiou_2003 --file theology %}의 번역입니다. 영어가 아닌 프랑스어에서 번역한 듯 합니다. 두세번 읽었는데, 뭔가 여전히 찜찜해서, 본회퍼만 탐독하기 좀 그렇다고 생각이 들때, 같이 조금씩 보려구요.

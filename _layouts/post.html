@@ -7,9 +7,15 @@ layout: default
   <p><i><small>by {{ site.author.name }}, on {{ page.date | date: '%B %d, %Y' }}</small></i></p>
   {{ content }}
 
-  {% if page.bibliography %}
+{% if page.bibliography %}
 <h2 class="text-title">읽는 책</h2>
+{% if page.bibliography contains "theology" %}
+<h3>신학</h3>
 {% bibliography --cited --file theology %}
 {% endif %}
+{% if page.bibliography contains "books" %}
+<h3>도서</h3>
+{% bibliography --cited --file books %}
+{% endif %}{% endif %}
 
 </article>
