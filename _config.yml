@@ -4,6 +4,7 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 timezone: "Asia/Seoul"
+#date_format: "%Y-%m-%d %H:%M:%S %z"
 permalink: /:year/:month/:title:output_ext
 
 color-scheme: blue
