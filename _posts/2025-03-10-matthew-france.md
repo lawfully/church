@@ -1,7 +1,7 @@
 ---
 title: "[성경] 딕 프랑스의 마태복음 주해"
 categories: [bible,commentary,books]
-bibliography: theology
+#bibliography: theology
 ---
 
 [{% include lfigure.html url="https://bestcommentaries.com/images/bookimages/080282501X-large.webp" align="left" width="30%" title="The Gospel of Matthew" %}](https://bestcommentaries.com/book/3656/)
