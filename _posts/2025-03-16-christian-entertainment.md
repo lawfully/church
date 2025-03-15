@@ -1,5 +1,5 @@
 ---
-title: "[뉴스] 기독교 영화"
+title: "[뉴스읽기] 기독교 영화"
 categories: [news,entertainment]
 ---
 
@@ -16,7 +16,7 @@ categories: [news,entertainment]
 
 >Today people want to watch things that “restore faith”, which, she argues, is much “bigger and broader than just God”. The studio describes its mission not as making Christian TV but as “restoring faith in things worth believing in”.
 
-풍자와 통찰이 아주 적절하게 조화를 이뤘죠. 저를 포함하여, 공감하는 사람도 많은 것 같구요. 이어서,
+풍자와 통찰이 아주 적절하게 조화를 이뤘죠. 공감하는 사람도 많은 것 같구요. 저를 포함해서. 이어서 말합니다.
 
 >이를테면, 수익률 같은... 스트리밍 시장같이 포화된 시장에서 이런 영화와 쇼는 바로 이런 기독교적 가치--희망컨대--를 창조주에게 제공한다. 믿음에 근거한 쇼는 몇 가지 이유에서 수익성이 좋은 것으로 확인되었다. 첫째는 제작이 상대적으로 싸고 간단하다는 것이다. 예수 이야기에는 특수효과가 별로 필요 없다 (심지어는 물이 포도주로 변할 때도 비싸지 않다). 게다가 유명한 배우가 필요하지도 않다 (세계 최대 종교의 창립자로 예수은 충분한 지명도가 있다). 또, 많은 시청자에게 호소력이 있다. 세계적으로 약 24억명이 스스로 기독교인이라 한다. 
 

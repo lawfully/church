@@ -3,6 +3,7 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
+timezone: "Asia/Seoul"
 permalink: /:year/:month/:title:output_ext
 
 color-scheme: blue
