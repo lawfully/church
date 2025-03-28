@@ -8,6 +8,10 @@ weight: 98
 
 ---
 
+## 주석
+
+<p>{% bibliography --file commentaries %}</p>
+
 ## 신학
 
 <p>{% bibliography --file theology %}</p>

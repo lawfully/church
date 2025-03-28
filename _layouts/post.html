@@ -9,6 +9,10 @@ layout: default
 
 {% if page.bibliography %}
 <h2 class="text-title">읽는 책</h2>
+{% if page.bibliography contains "commentaries" %}
+<h3>주석</h3>
+{% bibliography --cited --file commentaries %}
+{% endif %}
 {% if page.bibliography contains "theology" %}
 <h3>신학</h3>
 {% bibliography --cited --file theology %}
