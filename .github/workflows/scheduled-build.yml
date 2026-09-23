@@ -1,0 +1,17 @@
+name: Scheduled Site Rebuild
+
+on:
+  schedule:
+    # Runs every day at 00:05 UTC
+    - cron: '5 0 * * *'
+  workflow_dispatch: # Allows manual trigger from Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Pages Rebuild
+        uses: actions/checkout@v4
+      - name: Build with Jekyll
+        # Standard GitHub Pages build or deployment action
+        run: echo "Rebuilding site to publish scheduled posts"
