@@ -3,7 +3,7 @@ name: Scheduled Site Rebuild
 on:
   schedule:
     # Runs every day at 00:05 UTC
-    - cron: '5 15 * * *'
+    - cron: '35 19 * * *'
   workflow_dispatch: # Allows manual trigger from Actions tab
 
 jobs:
